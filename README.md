@@ -1,4 +1,4 @@
-# 🌍 Celo Donation DApp
+# 🌍 Celo Donation
 
 A decentralized donation platform built on the **Celo blockchain** that enables transparent, borderless, and low-cost charitable giving.
 
